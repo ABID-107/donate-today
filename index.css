@@ -121,29 +121,26 @@ padding-bottom: 100px;
     padding-left: 15px;
 }
 .Food{
-    background-image: url(icons/food.png);
-    background-repeat: no-repeat;
+   
     margin-right:10px;
     width: auto;
-    padding: 50px 10px 35px 10px;
+    padding: 60px 10px 35px 10px;
     background-color: #00ffff56;
     border-radius: 20px;
 }
 .Shelter{
-    background-image: url(icons/shelter.png);
-    background-repeat: no-repeat;
+   
     margin-right:10px;
     width: auto;
-    padding: 50px 10px 35px 10px;
+    padding: 60px 10px 35px 10px;
     background-color: #fdb46085;
     border-radius: 20px;
 }
 .Education{
-    background-image: url(icons/Frame-1.png);
-    background-repeat: no-repeat;
+   
     margin-right:10px;
     width: auto;
-    padding: 50px 10px 35px 10px;
+    padding: 60px 10px 35px 10px;
     background-color: #fa68a086;
     border-radius: 20px;
 }
@@ -177,4 +174,8 @@ button{
     width: 500px;
     height: auto;
     margin-left:20px;
+}
+.forth-text{
+    margin-left: 100px;
+    margin-right: 200px;
 }
